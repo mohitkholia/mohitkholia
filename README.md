@@ -8,7 +8,7 @@
 
 I’m a passionate and goal-oriented MCA student with a strong interest in **Web Development, Software Engineering, and emerging technologies**.
 
-With hands-on experience in **HTML, CSS, JavaScript, React, and Node.js**, I enjoy building **functional, user-centric applications** that solve real-world problems.
+With hands-on experience in **HTML, CSS, JavaScript**, I enjoy building **functional, user-centric applications** that solve real-world problems.
 
 Currently pursuing my Master's in Computer Applications, I focus on strengthening both my **technical skills** and **problem-solving mindset**. I have worked on academic and personal projects that reflect my ability to turn ideas into **robust, scalable digital solutions**, with emphasis on **clean code, responsiveness, and performance**.
 
@@ -17,7 +17,7 @@ Currently pursuing my Master's in Computer Applications, I focus on strengthenin
 ## 🔹 What I Bring
 
 ✔ Strong foundation in computer science fundamentals
-✔ Hands-on experience with **MERN Stack**
+✔ Hands-on experience with **Front end**
 ✔ Ability to build responsive and user-friendly applications
 ✔ Strong problem-solving and logical thinking skills
 ✔ Good communication and teamwork abilities
@@ -61,7 +61,7 @@ I'm seeking **internships and project-based opportunities** where I can:
 
 ## 💬 Ask Me About
 
-* Web Development (HTML, CSS, JS, React)
+* Web Development (HTML, CSS, JS)
 * Git & GitHub
 * Beginner-friendly ML concepts
 
@@ -70,7 +70,7 @@ I'm seeking **internships and project-based opportunities** where I can:
 ## 🛠️ Tech Stack
 
 * 💻 Languages: JavaScript, Java
-* 🌐 Frontend: HTML, CSS, React
+* 🌐 Frontend: HTML, CSS
 * ⚙️ Backend: Node.js
 * 🗄️ Tools: Git, GitHub, VS Code
 
